@@ -3,11 +3,6 @@
   flex-direction: column;
 }
 
-.reservation__form {
-  margin: auto;
-  display: flex;
-}
-
 .form__fieldset {
   display: flex;
   flex-direction: column;
