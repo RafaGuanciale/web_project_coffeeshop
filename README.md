@@ -1,5 +1,7 @@
 # Triple Espresso da TripleTen
 
+<img src="./images/cafe_triple_espresso.jpg" alt="Prévia do projeto Café Triple Espresso" width="800">
+
 Esse projeto faz parte do meu aprendizado no bootcamp da TripleTen.
 Aqui desenvolvi uma página completa com layout responsivo, formulário funcional e uso de iframes, elementos que estão presentes em praticamente qualquer site moderno.
 
